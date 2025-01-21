@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.login-css {
+  @apply w-fit h-max p-6 bg-gray-50 rounded-lg shadow-md mx-auto mt-24;
+}
+
+.input-label {
+  @apply block text-sm font-medium text-gray-700;
+}
+
+.input-form {
+  @apply mb-4 px-3 py-2 border border-gray-300 rounded-md w-full;
+}
+
+.login-button {
+  @apply w-full px-4 py-2 text-white bg-blue-600 rounded-md hover:bg-blue-700;
+}
+
+.navbar {
+  @apply flex flex-row justify-between items-center font-sans font-bold text-white bg-blue-500 w-full h-16
+}
+
+.menu-button {
+  @apply inline-flex items-center hover:shadow-2xl hover:outline-1 outline-gray-500 duration-300 rounded
+}
+
+.menu-item {
+  @apply inline-flex items-center shadow-2xl bg-white px-3 py-1.5 transition hover:text-blue-500 hover:bg-gray-100 duration-300 rounded
+}
+
+.sidebar-item {
+  @apply flex flex-col items-start mb-2 w-full
+}
+
+.sidebar-button {
+  @apply flex items-center my-1 hover:text-blue-500 w-full py-1 rounded
+}
+
+.sidebar-menu-button {
+  @apply hover:text-blue-500
+}

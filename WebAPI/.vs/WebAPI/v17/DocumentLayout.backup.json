@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Duong Hoang Long\\Desktop\\pr\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8393E38C-7035-4DFC-AC46-0FCE76D5FB04}|WebAPI\\WebAPI.csproj|c:\\users\\duong hoang long\\desktop\\pr\\webapi\\webapi\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8393E38C-7035-4DFC-AC46-0FCE76D5FB04}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\Duong Hoang Long\\Desktop\\pr\\WebAPI\\WebAPI\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\Duong Hoang Long\\Desktop\\pr\\WebAPI\\WebAPI\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwFsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T03:50:27.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
